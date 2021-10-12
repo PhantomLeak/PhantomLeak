@@ -1,6 +1,6 @@
 ### Hi there, I'm Dylan - aka [PhantomLeak][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dylanstocking.com)
+[![Website](https://img.shields.io/website?label=dylanstocking.com&style=for-the-badge&url=https%3A%2F%2Fdylanstocking.com)](https://dylanstocking.com)
 
 ## I'm a Student, and Back-end Developer
 
