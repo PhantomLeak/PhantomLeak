@@ -32,7 +32,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiPhantomLeak=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![PhantomLeaks GitHub stats](https://github-readme-stats.vercel.app/api?username=PhantomLeak)](https://github.com/phantomleak/github-readme-stats)
+
 
 
 </details>
