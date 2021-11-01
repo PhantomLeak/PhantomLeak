@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=dylanstocking.com&style=for-the-badge&url=https%3A%2F%2Fdylanstocking.com)](https://dylanstocking.com)
 
-## I'm a Student, and Back-end Developer
+## I'm a Student and Back-end Developer
 
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with other content creators
