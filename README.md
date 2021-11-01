@@ -5,7 +5,7 @@
 ## I'm a Student and Back-end Developer
 
 - 🌱 I’m currently learning everything I can 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other software developers to create something awesome!
 - 🥅 2022 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I love to kayak and explore the great outdoors
 
