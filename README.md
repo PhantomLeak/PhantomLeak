@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=dylanstocking.com&style=for-the-badge&url=https%3A%2F%2Fdylanstocking.com)](https://dylanstocking.com)
 
-## I'm a Software Developer and tech enthusiast
+## I'm a Software Developer and Tech Enthusiast
 
 - 🌱 I’m currently learning everything I can to improve my skills and grow as a developer
 - 👯 I’m looking to collaborate with other software developers to create something awesome!
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="PhantomLeak" width="22px" src="https://api.iconify.design/oi/globe.svg?color=blue" />][website]
+<!--[<img align="left" alt="PhantomLeak" width="22px" src="https://api.iconify.design/oi/globe.svg?color=blue" />][website]-->
 [<img align="left" alt="Phantomleak | LinkedIn" width="22px" src="https://api.iconify.design/logos/linkedin-icon.svg?color=blue" />][linkedin]
 
 <br />
@@ -23,7 +23,6 @@
 <img align="left" alt="Vue" width="35px" src="https://api.iconify.design/logos/vue.svg"/>
 <img align="left" alt="Pycharm" width="35px" src="https://api.iconify.design/logos/pycharm.svg"/>
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/ecc35bf91df739a9ffbad03eae3944ff9b7d3811/svg/java.svg"/>
-<img align="left" alt="PHP" width="35px" src="https://api.iconify.design/vscode-icons/file-type-php2.svg?color=blue"/>
 <img align="left" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/ecc35bf91df739a9ffbad03eae3944ff9b7d3811/svg/bootstrap.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
