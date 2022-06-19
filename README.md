@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![PhantomLeaks GitHub stats](https://github-readme-stats.vercel.app/api?username=PhantomLeak)](https://github.com/phantomleak/github-readme-stats)
+  <!--[![PhantomLeaks GitHub stats](https://github-readme-stats.vercel.app/api?username=PhantomLeak)](https://github.com/phantomleak/github-readme-stats)-->
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PhantomLeak&show_icons=true)
 
 </details>
