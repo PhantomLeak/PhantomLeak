@@ -1,6 +1,6 @@
-### Hi there, I'm Dylan - aka [PhantomLeak][website] 👋
+### Hi there, I'm Dylan - aka [PhantomLeak] 👋
 
-[![Website](https://img.shields.io/website?label=dylanstocking.com&style=for-the-badge&url=https%3A%2F%2Fdylanstocking.com)](https://dylanstocking.com)
+<!--[![Website](https://img.shields.io/website?label=dylanstocking.com&style=for-the-badge&url=https%3A%2F%2Fdylanstocking.com)](https://dylanstocking.com)-->
 
 ## I'm a Software Developer and Tech Enthusiast
 
