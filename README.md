@@ -37,6 +37,16 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 <br />
 
 <br />
+#
+
+## 📕 Top projects I've contributed to
+
+<p align="left">
+  <a href="https://github.com/andrewvasilchuk/vue-lazy-youtube-video"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewvasilchuk&repo=vue-lazy-youtube-video&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/ClarityCoders/RedditImageScraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ClarityCoders&repo=RedditImageScraper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
+</p>
+
+<br />
 
 #
 
