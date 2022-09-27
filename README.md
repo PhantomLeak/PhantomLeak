@@ -1,20 +1,21 @@
-### Dylan Stocking👋
+<h3 align="center">
+🚣‍♂️ Dylan Stocking
+</h3>
 
-**`Digital Craftsman (Developer/Tech Enthusiast/Problem Solver)`**
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?  lines=Software%20and%20Web%20developer;Always%20learning%20new%20things;Tech%20Enthusiast;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+ </p>
+ <br />
+ 
 I'm a software Developer and tech enthusiast looking to learn something new every day. All of my coding projects are built from the ground up, and I try to solve problems I face in hopes that it helps someone else.
 
-- 🌱 I’m currently learning everything I can to improve my skills and grow as a developer
+- 🌱 I’m currently learning everything I can to improve my skills and grow as a developer.
 - 👯 I’m looking to collaborate with other software developers to create something awesome!
 - 🥅 2022 Goals: Contribute more to Open Source projects!
-- ⚡ Fun fact: I love to kayak and explore the great outdoors
+- ⚡ Fun fact: I love to kayak and explore the great outdoors.
 
-### Connect with me:
-
-<!--[<img align="left" alt="PhantomLeak" width="22px" src="https://api.iconify.design/oi/globe.svg?color=blue" />][website]-->
-[<img align="left" alt="Phantomleak | LinkedIn" width="22px" src="https://api.iconify.design/logos/linkedin-icon.svg?color=blue" />][linkedin]
-
-<br />
+---
 
 ### 🧰 Languages and Tools
 
@@ -31,8 +32,10 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" />
 <img align="left"alt="Bash"width="30px"style="paddingright:10px;"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" />
-<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-<img align="left" alt="Ubuntu" width="30px"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ubuntu.svg"
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;"       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ubuntu.svg"
+<br />
+
 <br />
 
 #
@@ -44,5 +47,8 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=phantomleak&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+
+
 
 [linkedin]: https://www.linkedin.com/in/dylan-stocking-71985b19a/
