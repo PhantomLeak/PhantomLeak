@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?  lines=Software%20and%20Web%20developer;Always%20learning%20new%20things;Tech%20Enthusiast;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?  lines=Software%20and%20Web%20developer;Always%20learning%20new%20things;Tech%20Enthusiast;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=26C7D5&vCenter=true&size=22&pause=1000"></a>
  </p>
  <br />
  
@@ -49,9 +49,13 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 #
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&color=26C7D5&pause=1000&width=800&lines=;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding..." />
+</p>
+
+<p align="center">
 <img height="30px" src="https://forthebadge.com/images/badges/built-with-love.svg">
 <img height="30px" src="https://github.com/PhantomLeak/PhantomLeak/blob/main/worksOnMyMachine.svg" />
-
+<img height="30px" src="https://github.com/PhantomLeak/PhantomLeak/blob/main/powered-by-coffee-%26-will.svg" />
 </p>
 
 
