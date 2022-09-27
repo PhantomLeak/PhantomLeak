@@ -18,7 +18,7 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 ---
 
 ### 🧰 Languages and Tools
-
+<p>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
@@ -34,17 +34,18 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 <img align="left"alt="Bash"width="30px"style="paddingright:10px;"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;"       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ubuntu.svg"
+</p>
 
 <br />
+
 #
 
-## 📕 Top projects I've contributed to
+### 📕 Top projects I've contributed to
 
 <p align="left">
   <a href="https://github.com/andrewvasilchuk/vue-lazy-youtube-video"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andrewvasilchuk&repo=vue-lazy-youtube-video&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/ClarityCoders/RedditImageScraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ClarityCoders&repo=RedditImageScraper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
 </p>
-
 <br />
 
 #
