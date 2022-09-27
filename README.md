@@ -45,7 +45,7 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phantomleak&theme=react&hide_border&border_radius=4.5" height="192px"/></a>
 </p>
 
-## 📊 Github stats
+### 📊 Github stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
