@@ -34,7 +34,6 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 <img align="left"alt="Bash"width="30px"style="paddingright:10px;"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;"       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ubuntu.svg"
-<br />
 
 <br />
 #
