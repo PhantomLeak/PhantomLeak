@@ -1,8 +1,8 @@
-### Hi there, I'm Dylan - aka PhantomLeak 👋
+### Dylan Stocking👋
 
-<!--[![Website](https://img.shields.io/website?label=dylanstocking.com&style=for-the-badge&url=https%3A%2F%2Fdylanstocking.com)](https://dylanstocking.com)-->
+**`Digital Craftsman (Developer/Tech Enthusiast/Problem Solver)`**
 
-## I'm a Software Developer and Tech Enthusiast
+I'm a software Developer and tech enthusiast looking to learn something new every day. All of my coding projects are built from the ground up, and I try to solve problems I face in hopes that it helps someone else.
 
 - 🌱 I’m currently learning everything I can to improve my skills and grow as a developer
 - 👯 I’m looking to collaborate with other software developers to create something awesome!
@@ -16,31 +16,33 @@
 
 <br />
 
-### Languages and Tools:
+### 🧰 Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/ecc35bf91df739a9ffbad03eae3944ff9b7d3811/svg/python.svg"/>
-<img align="left" alt="Vue" width="35px" src="https://api.iconify.design/logos/vue.svg"/>
-<img align="left" alt="Pycharm" width="35px" src="https://api.iconify.design/logos/pycharm.svg"/>
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/ecc35bf91df739a9ffbad03eae3944ff9b7d3811/svg/java.svg"/>
-<img align="left" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/ecc35bf91df739a9ffbad03eae3944ff9b7d3811/svg/bootstrap.svg"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-<img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/> 
-<br/><br/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" />
+<img align="left"alt="Bash"width="30px"style="paddingright:10px;"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+<img align="left" alt="Ubuntu" width="30px"src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ubuntu.svg"
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+#
 
-  <!--[![PhantomLeaks GitHub stats](https://github-readme-stats.vercel.app/api?username=PhantomLeak)](https://github.com/phantomleak/github-readme-stats)-->
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PhantomLeak&show_icons=true)
+### 📊 Stats
 
-</details>
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantomleak&show_icons=true&theme=gruvbox)
 
-[website]: https://www.dylanstocking.com/
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=phantomleak&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 [linkedin]: https://www.linkedin.com/in/dylan-stocking-71985b19a/
