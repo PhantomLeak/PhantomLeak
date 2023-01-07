@@ -20,6 +20,7 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 ### 🧰 Languages and Tools
 <p>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right: 10px; color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vuejs/vuejs-original.svg" />
  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg" />
