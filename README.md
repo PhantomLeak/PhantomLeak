@@ -61,7 +61,7 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 <p align="center">
 <img height="30px" src="https://forthebadge.com/images/badges/built-with-love.svg">
 <img height="30px" src="https://github.com/PhantomLeak/PhantomLeak/blob/main/worksOnMyMachine.svg" />
-<img height="30px" src="https://github.com/PhantomLeak/PhantomLeak/blob/main/powered-by-coffee-%26-will.svg" />
+<img height="30px" src="https://github.com/PhantomLeak/PhantomLeak/blob/main/powered-by-dark-magic.svg" />
 </p>
 
 
