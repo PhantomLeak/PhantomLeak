@@ -12,7 +12,7 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 
 - 🌱 I’m currently learning everything I can to improve my skills and grow as a developer.
 - 👯 I’m looking to collaborate with other software developers to create something awesome!
-- 🥅 2022 Goals: Contribute more to Open Source projects!
+- 🥅 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I love to kayak and explore the great outdoors.
 
 ---
