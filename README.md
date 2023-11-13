@@ -57,7 +57,7 @@ I'm a software Developer and tech enthusiast looking to learn something new ever
 #
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&color=26C7D5&pause=1000&width=800&lines=;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding..." />
+  <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&color=26C7D5&pause=500&width=800&lines=;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding..." />
 </p>
 
 <p align="center">
